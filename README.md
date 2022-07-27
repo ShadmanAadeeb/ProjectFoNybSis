@@ -1,10 +1,10 @@
 # Project For NybSys
 
-###Short Project Description
+### Short Project Description
 This project can be used to perform instance segmentation on an image. 
 You can provide an image as input, then a list of objects available in the image will be given to you. You can select which image you want to view. Upon your selection, the rest of the image will be blurred out. 
 
-###Sample Input Output
+### Sample Input Output
 Here is a sample input. 
 
 ![i1](https://user-images.githubusercontent.com/55077149/181309416-4125674a-cd6e-489a-8478-a46150eedb83.PNG)
@@ -12,7 +12,7 @@ Here is a sample input.
 Here is the output which is obtained after if the user selects the sports ball option.
 ![o1](https://user-images.githubusercontent.com/55077149/181309430-8ab67b1e-3adb-40a6-b29b-5738ffa6e736.PNG)
 
-###If you want to run it on your pc
+### If you want to run it on your pc
 In order to run this project on your pc, follow the following steps
 * Install Python on your PC (3.7 or higher)
 * Download this project as a zip file and extract its contents
