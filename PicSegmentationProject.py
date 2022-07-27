@@ -135,7 +135,7 @@ currentImage=None
 
 
 root = Tk()
-root.title('Picture Segmentation Project For Nybsis')
+root.title('Picture Segmentation Project For Nybsys')
 
 
 # preparing the functions for the Select button
